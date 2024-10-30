@@ -48,6 +48,8 @@ public class Find_Element {
 		
 		WebElement check=driver.findElement(By.xpath("//button[@id='checkout']"));
 		check.click();
+
+		System.out.println("End of the file here by Master Akshay=======");
 		
 
 	}
